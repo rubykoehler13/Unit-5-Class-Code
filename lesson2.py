@@ -1,8 +1,8 @@
-"""
-Name: Mr. Smith
+'''
+Name: Ruby Koehler
 Date: 11/6/24
-Topic: Functions
-"""
+Topic: Functions with Parameters
+'''
 
 def sunny_message():
     print("On a sunny day, sandals are appropriate footwear.")
