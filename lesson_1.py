@@ -1,5 +1,5 @@
 """
-Name: Mr. Smith
+Name: Ruby Koehler
 Date: 11/6/24
 Topic: Functions
 """
