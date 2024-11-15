@@ -4,9 +4,6 @@ Name: Mr. Smith
 Date: 11/13/24
 Topic: Returns
 """
-from msvcrt import putch
-from random import choice
-from ssl import match_hostname
 
 
 # A special calculator
