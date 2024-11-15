@@ -1,9 +1,6 @@
 import math
-
-from networkx.algorithms.minors.contraction import quotient_graph
-
 """
-Name: Mr. Smith
+Name: Ruby Koehler
 Date: 11/13/24
 Topic: Returns
 """
